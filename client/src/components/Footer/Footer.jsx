@@ -7,11 +7,10 @@ const Footer = () => {
         <div className="footer">
             <div className="footer-content">
                 <div className="col">
-                    <div className="title">SUBSCRIBE TO THE KEFYALLEN NEWSLETTER</div>
+                    <div className="title">ABONNEZ-VOUS À LA NEWSLETTER KEFYALLEN</div>
                     <div className="text">
-                    By entering your email address below, you agree to receive our
-                    newsletter that presents our latest collections, events and initiatives. You
-                    will find more information about it.
+                    En saisissant votre adresse e-mail ci-dessous, vous acceptez de recevoir nos
+    newsletter qui présente nos dernières collections, événements et initiatives. Vous trouverez plus d'informations à ce sujet.
                     </div>
                 </div>
                 <div className="col">
@@ -31,8 +30,8 @@ const Footer = () => {
                 </div>
                 <div className="col">
                     <div className="title">Pages</div>
-                    <span className="text">Home</span>
-                    <span className="text">About</span>
+                    <span className="text">Accueil</span>
+                    <span className="text">A Propos</span>
                     <span className="text">Privacy Policy</span>
                     <span className="text">Terms & Conditions</span>
                     <span className="text">Contact Us</span>
