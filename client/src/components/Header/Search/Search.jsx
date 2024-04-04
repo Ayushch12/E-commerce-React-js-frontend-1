@@ -26,7 +26,7 @@ const Search = ({ setSearchModal }) => {
                 <input
                     autoFocus
                     type="text"
-                    placeholder="Search for products"
+                    placeholder="Rechercher des produits"
                     value={query}
                     onChange={onChange}
                 />
@@ -38,7 +38,7 @@ const Search = ({ setSearchModal }) => {
             <div className="search-result-content">
                 {!data?.data?.length && (
                     <div className="start-msg">
-                        Start typing to see products you are looking for.
+                        Commencez à taper pour voir les produits que vous recherchez.
                     </div>
                 )}
                 <div className="search-results">

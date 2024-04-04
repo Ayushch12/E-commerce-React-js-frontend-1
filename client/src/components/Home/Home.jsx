@@ -46,21 +46,3 @@ const Home = () => {
 };
 export default Home;
 
-
-/*
-const Home=() =>{
-    return(
-        <div>
-            <Banner/>
-            <div className="main-content">
-                <div className="layout">
-            <Category/>
-            <Products/>
-
-            </div>
-        </div>
-        </div>
-    );
-};
-*/
-

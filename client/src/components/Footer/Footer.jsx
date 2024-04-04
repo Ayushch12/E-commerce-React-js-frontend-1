@@ -21,20 +21,20 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="title">Categories</div>
-                    <span className="text">Long-coat</span>
-                    <span className="text">Tie</span>
-                    <span className="text">Shirt</span>
-                    <span className="text">Pants</span>
+                    <div className="title">Catégories</div>
+                    <span className="text">Long manteau</span>
+                    <span className="text">Cravate</span>
+                    <span className="text">Chemise</span>
+                    <span className="text">Pantalon</span>
 
                 </div>
                 <div className="col">
                     <div className="title">Pages</div>
                     <span className="text">Accueil</span>
                     <span className="text">A Propos</span>
-                    <span className="text">Privacy Policy</span>
-                    <span className="text">Terms & Conditions</span>
-                    <span className="text">Contact Us</span>
+                    <span className="text">politique de confidentialité</span>
+                    <span className="text">Termes et conditions</span>
+                    <span className="text">Contactez-nous</span>
                 </div>
             </div>
             <div className="bottom-bar">

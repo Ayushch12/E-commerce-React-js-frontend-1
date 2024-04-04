@@ -1,12 +1,9 @@
-//import { useNavigate } from "react-router-dom";
-//import "./Category.scss";
 
-//import coat1 from "../../../assets/category/coat1.jpg";
 
 
 import React from "react";
-import "./Category.scss";
 import { useNavigate } from "react-router-dom";
+import "./Category.scss";
 
 
 
@@ -39,23 +36,3 @@ export default Category;
 
 
 
-/*
-
-const Category = ({ categories }) => {
-  return (
-    <div className="shop-by-category">
-      <div className="categories">
-
-          <div className="category">
-
-           <img src={ coat1} alt =" " />
-
-          </div>
-
-      </div>
-    </div>
-  );
-};
-
-export default Category;
-*/
